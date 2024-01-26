@@ -62,7 +62,11 @@ defineProps({
                         fill="#FF2D20"
                     />
                 </svg>
+                
             </div>
+            <div class="flex justify-center items-center flex-col" >
+                                        <span class="text-xl font-semibold mt-4">FreeCodeGram</span>
+                                </div>
 
             <div class="mt-16">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
@@ -88,6 +92,7 @@ defineProps({
                                     />
                                 </svg>
                             </div>
+                            
 
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
 
